@@ -1,0 +1,6 @@
+Identificativo: NM_000207.3
+Descrizione: NM_000207.3 Homo sapiens insulin (INS), transcript variant 1, mRNA
+Lunghezza sequenza: 465
+Contenuto di GC: 63.87%
+Proteina: MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN
+Lunghezza proteina: 110
